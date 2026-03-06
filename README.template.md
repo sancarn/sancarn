@@ -8,14 +8,15 @@ I'm sancarn, a civil engineer, software engineer and inventor. See below for a l
 
 Here is a list of my projects.
 
-🚀 - Active projects
-🚌 - Recently active projects
-🚂 - Old projects, no active development
-☠️ - Dead projects, no commits in over a year.
+* 🚀 - Active projects
+* 🚌 - Recently active projects
+* 🚂 - Old projects, no active development
+* ☠️ - Dead projects, no commits in over a year.
 
 ### List
 
 ----
 
 <!-- Projects -->
+
 
