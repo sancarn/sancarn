@@ -74,7 +74,7 @@ function renderLine(profile, repo, emoji) {
   const name = repo.name;
   const link = repo.html_url;
   const desc = repo.description || "";
-  return `*  ![GHStars](https://img.shields.io/github/stars/${profile}/${name}?style&logo=github&label) [${name}](${link}) ${emoji} - ${desc}`;
+  return `*  ${emoji} ![GHStars](https://img.shields.io/github/stars/${profile}/${name}?style&logo=github&label) [${name}](${link}) - ${desc}`;
 }
 
 async function main() {
