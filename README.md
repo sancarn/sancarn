@@ -1,6 +1,21 @@
-## Hi there 👋
+Hello,
 
-I'm sancarn, a civil engineer, software engineer and inventor. See below for a list of my active projects
+I'm sancarn, a civil engineer, software engineer and inventor. See below for a list of my active projects. You can also find me on [youtube](http://github.com/sancarn)
+
+## Project list
+
+### Key
+
+Here is a list of my projects.
+
+* 🚀 - Active projects
+* 🚌 - Recently active projects
+* 🚂 - Old projects, no active development
+* ☠️ - Dead projects, no commits in over a year.
+
+### List
+
+----
 
 <!-- Projects -->
 *  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/sancarn?style&logo=github&label) [sancarn](https://github.com/sancarn/sancarn) - My profile readme
@@ -113,3 +128,5 @@ I'm sancarn, a civil engineer, software engineer and inventor. See below for a l
 *  ☠️ ![GHStars](https://img.shields.io/github/stars/sancarn/CSharp-Learning?style&logo=github&label) [CSharp-Learning](https://github.com/sancarn/CSharp-Learning) - 
 *  ☠️ ![GHStars](https://img.shields.io/github/stars/sancarn/IEClear?style&logo=github&label) [IEClear](https://github.com/sancarn/IEClear) - IEClear is a Utility designed for use in Window's Internet Explorer. At any time, with Internet Explorer open, type "ieclear". The program will get all existing Internet Explorer tabs, and merge them all into 1 window.
 *  ☠️ ![GHStars](https://img.shields.io/github/stars/sancarn/ScreenFlow-API?style&logo=github&label) [ScreenFlow-API](https://github.com/sancarn/ScreenFlow-API) - An AppleScript API, for using the popular ScreenCast software for Mac, Screenflow.
+
+
