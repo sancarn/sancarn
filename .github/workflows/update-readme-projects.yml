@@ -1,0 +1,41 @@
+name: Update README project list
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday at 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      profile:
+        description: "GitHub username whose repos to list"
+        required: false
+        default: "sancarn"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate project list
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_PROFILE: ${{ inputs.profile || 'sancarn' }}
+        run: node .github/scripts/update-readme-projects.js
+
+      - name: Commit and push if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update README project list"
+          git push

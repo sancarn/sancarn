@@ -1,0 +1,8 @@
+{
+  "thresholds": [
+    { "maxAgeDays": 30, "emoji": "🚀" },
+    { "maxAgeDays": 180, "emoji": "🚌" },
+    { "maxAgeDays": 365, "emoji": "🚂" }
+  ],
+  "default": "☠️"
+}
