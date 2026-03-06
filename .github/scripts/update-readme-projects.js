@@ -41,6 +41,42 @@ async function fetchAllRepos(profile) {
   return repos;
 }
 
+async function fetchUserOrgs() {
+  if (!TOKEN) return [];
+  const res = await ghFetch("https://api.github.com/user/orgs?per_page=100");
+  return res.json();
+}
+
+async function fetchOrgPublicRepos(orgLogin) {
+  const repos = [];
+  let page = 1;
+  while (true) {
+    const url = `https://api.github.com/orgs/${orgLogin}/repos?per_page=100&type=public&page=${page}`;
+    try {
+      const res = await ghFetch(url);
+      const batch = await res.json();
+      if (batch.length === 0) break;
+      repos.push(...batch);
+      if (batch.length < 100) break;
+      page++;
+    } catch {
+      break;
+    }
+  }
+  return repos;
+}
+
+async function repoHasUserCommits(owner, repo, author) {
+  const url = `https://api.github.com/repos/${owner}/${repo}/commits?author=${encodeURIComponent(author)}&per_page=1`;
+  try {
+    const res = await ghFetch(url);
+    const commits = await res.json();
+    return Array.isArray(commits) && commits.length > 0;
+  } catch {
+    return false;
+  }
+}
+
 async function fetchLatestCommitDate(owner, repo) {
   const url = `https://api.github.com/repos/${owner}/${repo}/commits?per_page=1`;
   try {
@@ -70,21 +106,38 @@ function emojiForAge(ageDays, scoring) {
   return scoring.default;
 }
 
-function renderLine(profile, repo, emoji) {
+function renderLine(owner, repo, emoji) {
   const name = repo.name;
   const link = repo.html_url;
   const desc = repo.description || "";
-  return `*  ${emoji} ![GHStars](https://img.shields.io/github/stars/${profile}/${name}?style&logo=github&label) [${name}](${link}) - ${desc}`;
+  return `*  ${emoji} ![GHStars](https://img.shields.io/github/stars/${owner}/${name}?style&logo=github&label) [${name}](${link}) - ${desc}`;
 }
 
 async function main() {
   console.log(`Fetching repos for ${PROFILE}…`);
-  const repos = await fetchAllRepos(PROFILE);
-  console.log(`Found ${repos.length} repos. Fetching latest commit dates…`);
+  let repos = await fetchAllRepos(PROFILE);
+  const byFullName = new Map(repos.map((r) => [r.full_name, r]));
 
+  if (TOKEN) {
+    console.log("Fetching org memberships…");
+    const orgs = await fetchUserOrgs();
+    for (const org of orgs) {
+      const orgRepos = await fetchOrgPublicRepos(org.login);
+      for (const repo of orgRepos) {
+        if (byFullName.has(repo.full_name)) continue;
+        const hasCommits = await repoHasUserCommits(repo.owner.login, repo.name, PROFILE);
+        if (hasCommits) byFullName.set(repo.full_name, repo);
+      }
+    }
+    repos = Array.from(byFullName.values());
+    console.log(`Including org repos: ${repos.length} total repos.`);
+  }
+
+  console.log(`Fetching latest commit dates for ${repos.length} repos…`);
   const reposWithDates = await Promise.all(
     repos.map(async (repo) => {
-      const latestCommit = await fetchLatestCommitDate(PROFILE, repo.name);
+      const owner = repo.owner.login;
+      const latestCommit = await fetchLatestCommitDate(owner, repo.name);
       return { repo, latestCommit };
     })
   );
@@ -98,7 +151,7 @@ async function main() {
   const lines = reposWithDates.map(({ repo, latestCommit }) => {
     const ageDays = (now - latestCommit.getTime()) / msPerDay;
     const emoji = emojiForAge(ageDays, scoring);
-    return renderLine(PROFILE, repo, emoji);
+    return renderLine(repo.owner.login, repo, emoji);
   });
 
   const projectList = lines.join("\n");
