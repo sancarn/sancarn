@@ -3,7 +3,7 @@
 I'm sancarn, a civil engineer, software engineer and inventor. See below for a list of my active projects
 
 <!-- Projects -->
-*  ![GHStars](https://img.shields.io/github/stars/sancarn/sancarn?style&logo=github&label) [sancarn](https://github.com/sancarn/sancarn) 🚀 - 
+*  ![GHStars](https://img.shields.io/github/stars/sancarn/sancarn?style&logo=github&label) [sancarn](https://github.com/sancarn/sancarn) 🚀 - My profile readme
 *  ![GHStars](https://img.shields.io/github/stars/sancarn/awesome-vba?style&logo=github&label) [awesome-vba](https://github.com/sancarn/awesome-vba) 🚀 - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
 *  ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style&logo=github&label) [stdVBA](https://github.com/sancarn/stdVBA) 🚀 - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 *  ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-examples?style&logo=github&label) [stdVBA-examples](https://github.com/sancarn/stdVBA-examples) 🚌 - 
