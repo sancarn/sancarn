@@ -41,10 +41,30 @@ async function fetchAllRepos(profile) {
   return repos;
 }
 
-async function fetchUserOrgs() {
-  if (!TOKEN) return [];
-  const res = await ghFetch("https://api.github.com/user/orgs?per_page=100");
-  return res.json();
+/**
+ * Fetch org logins from the user's public profile page (Organizations section).
+ * Uses HTML scraping because GET /user/orgs requires token scopes that GITHUB_TOKEN doesn't have.
+ */
+async function fetchUserOrgsFromProfile(profile) {
+  const url = `https://github.com/${profile}`;
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent": "readme-project-list",
+      Accept: "text/html",
+    },
+  });
+  if (!res.ok) {
+    throw new Error(`Profile fetch ${res.status}: ${res.statusText} – ${url}`);
+  }
+  const html = await res.text();
+  // Match data-hovercard-url="/orgs/OrgLogin/hovercard" in the Organizations section
+  const orgLogins = [];
+  const re = /data-hovercard-url="\/orgs\/([^/]+)\/hovercard"/g;
+  let m;
+  while ((m = re.exec(html)) !== null) {
+    orgLogins.push(m[1]);
+  }
+  return [...new Set(orgLogins)];
 }
 
 async function fetchOrgPublicRepos(orgLogin) {
@@ -118,20 +138,18 @@ async function main() {
   let repos = await fetchAllRepos(PROFILE);
   const byFullName = new Map(repos.map((r) => [r.full_name, r]));
 
-  if (TOKEN) {
-    console.log("Fetching org memberships…");
-    const orgs = await fetchUserOrgs();
-    for (const org of orgs) {
-      const orgRepos = await fetchOrgPublicRepos(org.login);
-      for (const repo of orgRepos) {
-        if (byFullName.has(repo.full_name)) continue;
-        const hasCommits = await repoHasUserCommits(repo.owner.login, repo.name, PROFILE);
-        if (hasCommits) byFullName.set(repo.full_name, repo);
-      }
+  console.log("Fetching orgs from profile…");
+  const orgLogins = await fetchUserOrgsFromProfile(PROFILE);
+  for (const orgLogin of orgLogins) {
+    const orgRepos = await fetchOrgPublicRepos(orgLogin);
+    for (const repo of orgRepos) {
+      if (byFullName.has(repo.full_name)) continue;
+      const hasCommits = await repoHasUserCommits(repo.owner.login, repo.name, PROFILE);
+      if (hasCommits) byFullName.set(repo.full_name, repo);
     }
-    repos = Array.from(byFullName.values());
-    console.log(`Including org repos: ${repos.length} total repos.`);
   }
+  repos = Array.from(byFullName.values());
+  console.log(`Including org repos: ${repos.length} total repos.`);
 
   console.log(`Fetching latest commit dates for ${repos.length} repos…`);
   const reposWithDates = await Promise.all(
