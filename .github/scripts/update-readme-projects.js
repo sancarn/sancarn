@@ -140,6 +140,7 @@ async function main() {
 
   console.log("Fetching orgs from profile…");
   const orgLogins = await fetchUserOrgsFromProfile(PROFILE);
+  console.log(`Found ${orgLogins.length} org(s): ${orgLogins.length ? orgLogins.join(", ") : "(none)"}`);
   for (const orgLogin of orgLogins) {
     const orgRepos = await fetchOrgPublicRepos(orgLogin);
     for (const repo of orgRepos) {
