@@ -41,30 +41,10 @@ async function fetchAllRepos(profile) {
   return repos;
 }
 
-/**
- * Fetch org logins from the user's public profile page (Organizations section).
- * Uses HTML scraping because GET /user/orgs requires token scopes that GITHUB_TOKEN doesn't have.
- */
-async function fetchUserOrgsFromProfile(profile) {
-  const url = `https://github.com/${profile}`;
-  const res = await fetch(url, {
-    headers: {
-      "User-Agent": "readme-project-list",
-      Accept: "text/html",
-    },
-  });
-  if (!res.ok) {
-    throw new Error(`Profile fetch ${res.status}: ${res.statusText} – ${url}`);
-  }
-  const html = await res.text();
-  // Match data-hovercard-url="/orgs/OrgLogin/hovercard" in the Organizations section
-  const orgLogins = [];
-  const re = /data-hovercard-url="\/orgs\/([^/]+)\/hovercard"/g;
-  let m;
-  while ((m = re.exec(html)) !== null) {
-    orgLogins.push(m[1]);
-  }
-  return [...new Set(orgLogins)];
+async function fetchUserOrgs(profile) {
+  const res = await ghFetch(`https://api.github.com/users/${profile}/orgs?per_page=100`);
+  const orgs = await res.json();
+  return orgs;
 }
 
 async function fetchOrgPublicRepos(orgLogin) {
@@ -138,8 +118,9 @@ async function main() {
   let repos = await fetchAllRepos(PROFILE);
   const byFullName = new Map(repos.map((r) => [r.full_name, r]));
 
-  console.log("Fetching orgs from profile…");
-  const orgLogins = await fetchUserOrgsFromProfile(PROFILE);
+  console.log("Fetching orgs…");
+  const orgs = await fetchUserOrgs(PROFILE);
+  const orgLogins = orgs.map((o) => o.login);
   console.log(`Found ${orgLogins.length} org(s): ${orgLogins.length ? orgLogins.join(", ") : "(none)"}`);
   for (const orgLogin of orgLogins) {
     const orgRepos = await fetchOrgPublicRepos(orgLogin);
