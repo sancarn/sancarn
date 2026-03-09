@@ -18,11 +18,12 @@ Here is a list of my projects.
 ----
 
 <!-- Projects -->
+*  🚀 ![GHStars](https://img.shields.io/github/stars/matrix-masi/masi?style&logo=github&label) [masi](https://github.com/matrix-masi/masi) - A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
+*  🚀 ![GHStars](https://img.shields.io/github/stars/matrix-masi/homeservers?style&logo=github&label) [homeservers](https://github.com/matrix-masi/homeservers) - A list of homeservers
 *  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/opennet-analyser?style&logo=github&label) [opennet-analyser](https://github.com/sancarn/opennet-analyser) - A massively parallel network simulation engine
 *  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/sancarn?style&logo=github&label) [sancarn](https://github.com/sancarn/sancarn) - My profile readme
-*  🚀 ![GHStars](https://img.shields.io/github/stars/matrix-masi/masi?style&logo=github&label) [masi](https://github.com/matrix-masi/masi) - A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
 *  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/awesome-vba?style&logo=github&label) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
-*  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style&logo=github&label) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
+*  🚌 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style&logo=github&label) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 *  🚌 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-examples?style&logo=github&label) [stdVBA-examples](https://github.com/sancarn/stdVBA-examples) - 
 *  🚌 ![GHStars](https://img.shields.io/github/stars/sancarn/Enshrouded?style&logo=github&label) [Enshrouded](https://github.com/sancarn/Enshrouded) - AHK Macros for Enshrouded
 *  🚌 ![GHStars](https://img.shields.io/github/stars/sancarn/hello-world?style&logo=github&label) [hello-world](https://github.com/sancarn/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
@@ -31,7 +32,7 @@ Here is a list of my projects.
 *  🚌 ![GHStars](https://img.shields.io/github/stars/sancarn/awesome-excel?style&logo=github&label) [awesome-excel](https://github.com/sancarn/awesome-excel) - A curated list of awesome Microsoft Excel resources
 *  🚌 ![GHStars](https://img.shields.io/github/stars/sancarn/vba-random?style&logo=github&label) [vba-random](https://github.com/sancarn/vba-random) - Random vba projects
 *  🚌 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-Inspiration?style&logo=github&label) [stdVBA-Inspiration](https://github.com/sancarn/stdVBA-Inspiration) - Sample VB6 and VBA code used for inspiration of syntax/algorithms for usage in the stdVBA library
-*  🚌 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-scripts?style&logo=github&label) [stdVBA-scripts](https://github.com/sancarn/stdVBA-scripts) - All stdVBA tutorial scripts
+*  🚂 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-scripts?style&logo=github&label) [stdVBA-scripts](https://github.com/sancarn/stdVBA-scripts) - All stdVBA tutorial scripts
 *  🚂 ![GHStars](https://img.shields.io/github/stars/sancarn/ddos-vtt?style&logo=github&label) [ddos-vtt](https://github.com/sancarn/ddos-vtt) - A modern open source baldurs-gate-3 inspired Virtual Tabletop built with PeerJS for networking and PixiJS.
 *  🚂 ![GHStars](https://img.shields.io/github/stars/sancarn/xlMocker?style&logo=github&label) [xlMocker](https://github.com/sancarn/xlMocker) - A mock data generator in Excel
 *  🚂 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-docs?style&logo=github&label) [stdVBA-docs](https://github.com/sancarn/stdVBA-docs) - Documentation site for `stdVBA`
