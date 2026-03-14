@@ -12,6 +12,7 @@ Here is a list of my projects.
 * 🚌 - Recently active projects
 * 🚂 - Old projects, no active development
 * ☠️ - Dead projects, no commits in over a year.
+* 🤖 - Projects with this flag are largely written by AI agents
 
 ### List
 
