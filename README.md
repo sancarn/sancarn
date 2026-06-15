@@ -20,12 +20,12 @@ Here is a list of my projects.
 
 <!-- Projects -->
 *  🚀 ![GHStars](https://img.shields.io/github/stars/matrix-masi/homeservers?style&logo=github&label) [homeservers](https://github.com/matrix-masi/homeservers) - 🤖 A list of homeservers
+*  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/sancarn?style&logo=github&label) [sancarn](https://github.com/sancarn/sancarn) - 🤖 My profile readme
 *  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/vba-webviews-paper?style&logo=github&label) [vba-webviews-paper](https://github.com/sancarn/vba-webviews-paper) - A paper about usage of webviews in VBA.
 *  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/awesome-vba?style&logo=github&label) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
-*  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/sancarn?style&logo=github&label) [sancarn](https://github.com/sancarn/sancarn) - 🤖 My profile readme
 *  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/read-first?style&logo=github&label) [read-first](https://github.com/sancarn/read-first) - 🤖 Windows tool to read the first line or megabyte of any file
 *  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-examples?style&logo=github&label) [stdVBA-examples](https://github.com/sancarn/stdVBA-examples) - Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)
-*  🚀 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style&logo=github&label) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
+*  🚌 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style&logo=github&label) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 *  🚌 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-scripts?style&logo=github&label) [stdVBA-scripts](https://github.com/sancarn/stdVBA-scripts) - All stdVBA tutorial scripts
 *  🚌 ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-Inspiration?style&logo=github&label) [stdVBA-Inspiration](https://github.com/sancarn/stdVBA-Inspiration) - Sample VB6 and VBA code used for inspiration of syntax/algorithms for usage in the stdVBA library
 *  🚌 ![GHStars](https://img.shields.io/github/stars/matrix-masi/masi?style&logo=github&label) [masi](https://github.com/matrix-masi/masi) - 🤖 A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
