@@ -106,11 +106,13 @@ function emojiForAge(ageDays, scoring) {
   return scoring.default;
 }
 
-function renderLine(owner, repo, emoji) {
+function renderLine(repo, emoji) {
   const name = repo.name;
   const link = repo.html_url;
   const desc = repo.description || "";
-  return `*  ${emoji} ![GHStars](https://img.shields.io/github/stars/${owner}/${name}?style&logo=github&label) [${name}](${link}) - ${desc}`;
+  const stars = repo.stargazers_count ?? 0;
+  const badge = `https://img.shields.io/badge/stars-${stars}-grey?style=flat&logo=github&label=`;
+  return `*  ${emoji} ![${stars} stars](${badge}) [${name}](${link}) - ${desc}`;
 }
 
 async function main() {
@@ -151,7 +153,7 @@ async function main() {
   const lines = reposWithDates.map(({ repo, latestCommit }) => {
     const ageDays = (now - latestCommit.getTime()) / msPerDay;
     const emoji = emojiForAge(ageDays, scoring);
-    return renderLine(repo.owner.login, repo, emoji);
+    return renderLine(repo, emoji);
   });
 
   const projectList = lines.join("\n");
