@@ -19,13 +19,14 @@ Here is a list of my projects.
 ----
 
 <!-- Projects -->
-*  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [sancarn](https://github.com/sancarn/sancarn) - 🤖 My profile readme
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [homeservers](https://github.com/matrix-masi/homeservers) - 🤖 A list of homeservers
+*  🚀 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [sancarn.github.io](https://github.com/sancarn/sancarn.github.io) - Personal github.io page
+*  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [sancarn](https://github.com/sancarn/sancarn) - 🤖 My profile readme
 *  🚀 ![6 stars](https://img.shields.io/badge/stars-6-grey?style=flat&logo=github&label=) [vba-webviews-paper](https://github.com/sancarn/vba-webviews-paper) - A paper about usage of webviews in VBA.
-*  🚀 ![609 stars](https://img.shields.io/badge/stars-609-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
+*  🚀 ![610 stars](https://img.shields.io/badge/stars-610-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
 *  🚀 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [read-first](https://github.com/sancarn/read-first) - 🤖 Windows tool to read the first line or megabyte of any file
 *  🚀 ![33 stars](https://img.shields.io/badge/stars-33-grey?style=flat&logo=github&label=) [stdVBA-examples](https://github.com/sancarn/stdVBA-examples) - Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)
-*  🚌 ![401 stars](https://img.shields.io/badge/stars-401-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
+*  🚌 ![402 stars](https://img.shields.io/badge/stars-402-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 *  🚌 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [stdVBA-scripts](https://github.com/sancarn/stdVBA-scripts) - All stdVBA tutorial scripts
 *  🚌 ![39 stars](https://img.shields.io/badge/stars-39-grey?style=flat&logo=github&label=) [stdVBA-Inspiration](https://github.com/sancarn/stdVBA-Inspiration) - Sample VB6 and VBA code used for inspiration of syntax/algorithms for usage in the stdVBA library
 *  🚌 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [masi](https://github.com/matrix-masi/masi) - 🤖 A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
@@ -44,7 +45,6 @@ Here is a list of my projects.
 *  ☠️ ![27 stars](https://img.shields.io/badge/stars-27-grey?style=flat&logo=github&label=) [Innovyze-ICM-Libraries](https://github.com/sancarn/Innovyze-ICM-Libraries) - A number of open source libraries and documentation I've created for Ruby developers who are developing custom software for Innovyze's InfoWorks ICM and InfoNet
 *  ☠️ ![3 stars](https://img.shields.io/badge/stars-3-grey?style=flat&logo=github&label=) [InfoLiteTransportableTS](https://github.com/sancarn/InfoLiteTransportableTS) - Work with InfoWorks ICM and InfoAsset transportables using this Open Source library
 *  ☠️ ![10 stars](https://img.shields.io/badge/stars-10-grey?style=flat&logo=github&label=) [PowerApp_PopupFormulaBar](https://github.com/sancarn/PowerApp_PopupFormulaBar) - A poormans popup formula bar for PowerApps
-*  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [sancarn.github.io](https://github.com/sancarn/sancarn.github.io) - Personal github.io page
 *  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [fork-vba-syntax-highlight](https://github.com/sancarn/fork-vba-syntax-highlight) - Fork of "Custom built Syntax Highlight tool for Word Documents"
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [fork-awesome-lint](https://github.com/sancarn/fork-awesome-lint) - Linter for Awesome lists - forked to make fix #199
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [pq-m-require](https://github.com/sancarn/pq-m-require) - Adds `Require` function to PowerQuery, allowing foreign libraries to be imported and used dynamically.
