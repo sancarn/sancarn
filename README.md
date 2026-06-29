@@ -20,16 +20,16 @@ Here is a list of my projects.
 
 <!-- Projects -->
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [homeservers](https://github.com/matrix-masi/homeservers) - 🤖 A list of homeservers
-*  🚀 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [sancarn.github.io](https://github.com/sancarn/sancarn.github.io) - Personal github.io page
+*  🚀 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [masi](https://github.com/matrix-masi/masi) - 🤖 A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [sancarn](https://github.com/sancarn/sancarn) - 🤖 My profile readme
+*  🚀 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [sancarn.github.io](https://github.com/sancarn/sancarn.github.io) - Personal github.io page
 *  🚀 ![6 stars](https://img.shields.io/badge/stars-6-grey?style=flat&logo=github&label=) [vba-webviews-paper](https://github.com/sancarn/vba-webviews-paper) - A paper about usage of webviews in VBA.
 *  🚀 ![610 stars](https://img.shields.io/badge/stars-610-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
 *  🚀 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [read-first](https://github.com/sancarn/read-first) - 🤖 Windows tool to read the first line or megabyte of any file
-*  🚀 ![33 stars](https://img.shields.io/badge/stars-33-grey?style=flat&logo=github&label=) [stdVBA-examples](https://github.com/sancarn/stdVBA-examples) - Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)
-*  🚌 ![402 stars](https://img.shields.io/badge/stars-402-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
+*  🚌 ![33 stars](https://img.shields.io/badge/stars-33-grey?style=flat&logo=github&label=) [stdVBA-examples](https://github.com/sancarn/stdVBA-examples) - Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)
+*  🚌 ![403 stars](https://img.shields.io/badge/stars-403-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 *  🚌 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [stdVBA-scripts](https://github.com/sancarn/stdVBA-scripts) - All stdVBA tutorial scripts
 *  🚌 ![39 stars](https://img.shields.io/badge/stars-39-grey?style=flat&logo=github&label=) [stdVBA-Inspiration](https://github.com/sancarn/stdVBA-Inspiration) - Sample VB6 and VBA code used for inspiration of syntax/algorithms for usage in the stdVBA library
-*  🚌 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [masi](https://github.com/matrix-masi/masi) - 🤖 A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
 *  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [opennet-analyser](https://github.com/sancarn/opennet-analyser) - 🤖 A massively parallel network simulation engine
 *  🚂 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [Enshrouded](https://github.com/sancarn/Enshrouded) - AHK Macros for Enshrouded
 *  🚂 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [hello-world](https://github.com/sancarn/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
@@ -49,7 +49,7 @@ Here is a list of my projects.
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [fork-awesome-lint](https://github.com/sancarn/fork-awesome-lint) - Linter for Awesome lists - forked to make fix #199
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [pq-m-require](https://github.com/sancarn/pq-m-require) - Adds `Require` function to PowerQuery, allowing foreign libraries to be imported and used dynamically.
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [fork-VBA-LanguageServer](https://github.com/sancarn/fork-VBA-LanguageServer) - VBA Language Server - fork from sslinky
-*  ☠️ ![108 stars](https://img.shields.io/badge/stars-108-grey?style=flat&logo=github&label=) [node-global-key-listener](https://github.com/LaunchMenu/node-global-key-listener) - A package to listen to global key events
+*  ☠️ ![109 stars](https://img.shields.io/badge/stars-109-grey?style=flat&logo=github&label=) [node-global-key-listener](https://github.com/LaunchMenu/node-global-key-listener) - A package to listen to global key events
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [NGKL-MaintainerApplications](https://github.com/LaunchMenu/NGKL-MaintainerApplications) - Apparently you can't add to discussions of archived repos... So this repo is created for those discussions.
 *  ☠️ ![4 stars](https://img.shields.io/badge/stars-4-grey?style=flat&logo=github&label=) [copy-to-clipboard](https://github.com/sancarn/copy-to-clipboard) - Helper site to copy text to clipboard
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [linktree-from-url-params](https://github.com/sancarn/linktree-from-url-params) - Generate a linktree-like site from Base64 encoded JSON passed in as URL params
