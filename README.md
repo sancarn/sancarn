@@ -20,11 +20,11 @@ Here is a list of my projects.
 
 <!-- Projects -->
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [homeservers](https://github.com/matrix-masi/homeservers) - 🤖 A list of homeservers
+*  🚀 ![6 stars](https://img.shields.io/badge/stars-6-grey?style=flat&logo=github&label=) [vba-webviews-paper](https://github.com/sancarn/vba-webviews-paper) - A paper about usage of webviews in VBA.
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [sancarn](https://github.com/sancarn/sancarn) - 🤖 My profile readme
-*  🚀 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [masi](https://github.com/matrix-masi/masi) - 🤖 A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
+*  🚌 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [masi](https://github.com/matrix-masi/masi) - 🤖 A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
 *  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [sancarn.github.io](https://github.com/sancarn/sancarn.github.io) - Personal github.io page
-*  🚌 ![6 stars](https://img.shields.io/badge/stars-6-grey?style=flat&logo=github&label=) [vba-webviews-paper](https://github.com/sancarn/vba-webviews-paper) - A paper about usage of webviews in VBA.
-*  🚌 ![612 stars](https://img.shields.io/badge/stars-612-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
+*  🚌 ![614 stars](https://img.shields.io/badge/stars-614-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
 *  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [read-first](https://github.com/sancarn/read-first) - 🤖 Windows tool to read the first line or megabyte of any file
 *  🚌 ![34 stars](https://img.shields.io/badge/stars-34-grey?style=flat&logo=github&label=) [stdVBA-examples](https://github.com/sancarn/stdVBA-examples) - Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)
 *  🚌 ![405 stars](https://img.shields.io/badge/stars-405-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
