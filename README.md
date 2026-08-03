@@ -20,11 +20,11 @@ Here is a list of my projects.
 
 <!-- Projects -->
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [homeservers](https://github.com/matrix-masi/homeservers) - 🤖 A list of homeservers
-*  🚀 ![6 stars](https://img.shields.io/badge/stars-6-grey?style=flat&logo=github&label=) [vba-webviews-paper](https://github.com/sancarn/vba-webviews-paper) - A paper about usage of webviews in VBA.
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [sancarn](https://github.com/sancarn/sancarn) - 🤖 My profile readme
+*  🚀 ![6 stars](https://img.shields.io/badge/stars-6-grey?style=flat&logo=github&label=) [vba-webviews-paper](https://github.com/sancarn/vba-webviews-paper) - A paper about usage of webviews in VBA.
 *  🚌 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [masi](https://github.com/matrix-masi/masi) - 🤖 A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
 *  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [sancarn.github.io](https://github.com/sancarn/sancarn.github.io) - Personal github.io page
-*  🚌 ![614 stars](https://img.shields.io/badge/stars-614-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
+*  🚌 ![618 stars](https://img.shields.io/badge/stars-618-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
 *  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [read-first](https://github.com/sancarn/read-first) - 🤖 Windows tool to read the first line or megabyte of any file
 *  🚌 ![34 stars](https://img.shields.io/badge/stars-34-grey?style=flat&logo=github&label=) [stdVBA-examples](https://github.com/sancarn/stdVBA-examples) - Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)
 *  🚌 ![405 stars](https://img.shields.io/badge/stars-405-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
@@ -90,7 +90,7 @@ Here is a list of my projects.
 *  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [LaunchMenu-Archive_20200609](https://github.com/LaunchMenu-archive/LaunchMenu-Archive_20200609) - LaunchMenu Remade - (Old version: https://github.com/sancarn/LaunchMenu)
 *  ☠️ ![3 stars](https://img.shields.io/badge/stars-3-grey?style=flat&logo=github&label=) [InfoLab](https://github.com/sancarn/InfoLab) - The first 3rd party open source plugin for InfoWorks/InfoNet which allows dynamic execution of Ruby scripts!
 *  ☠️ ![4 stars](https://img.shields.io/badge/stars-4-grey?style=flat&logo=github&label=) [fork-adopted-ahk-CGUI](https://github.com/sancarn/fork-adopted-ahk-CGUI) - An object-oriented GUI library for AutoHotkey
-*  ☠️ ![29 stars](https://img.shields.io/badge/stars-29-grey?style=flat&logo=github&label=) [ACC.AHK](https://github.com/sancarn/ACC.AHK) - An IAccessible implementation for AHK
+*  ☠️ ![30 stars](https://img.shields.io/badge/stars-30-grey?style=flat&logo=github&label=) [ACC.AHK](https://github.com/sancarn/ACC.AHK) - An IAccessible implementation for AHK
 *  ☠️ ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [XLGIS](https://github.com/sancarn/XLGIS) - An open source OfficeJS plugin for visualising GIS data inside Excel
 *  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [fork-script-lab](https://github.com/sancarn/fork-script-lab) - Create, run and share your code directly from Office
 *  ☠️ ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [msoAddinTests](https://github.com/sancarn/msoAddinTests) - Microsoft office addin tests
