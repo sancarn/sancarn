@@ -19,18 +19,18 @@ Here is a list of my projects.
 ----
 
 <!-- Projects -->
-*  🚀 ![620 stars](https://img.shields.io/badge/stars-620-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [homeservers](https://github.com/matrix-masi/homeservers) - 🤖 A list of homeservers
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [sancarn](https://github.com/sancarn/sancarn) - 🤖 My profile readme
+*  🚀 ![622 stars](https://img.shields.io/badge/stars-622-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
 *  🚌 ![6 stars](https://img.shields.io/badge/stars-6-grey?style=flat&logo=github&label=) [vba-webviews-paper](https://github.com/sancarn/vba-webviews-paper) - A paper about usage of webviews in VBA.
 *  🚌 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [masi](https://github.com/matrix-masi/masi) - 🤖 A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
 *  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [sancarn.github.io](https://github.com/sancarn/sancarn.github.io) - Personal github.io page
 *  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [read-first](https://github.com/sancarn/read-first) - 🤖 Windows tool to read the first line or megabyte of any file
 *  🚌 ![34 stars](https://img.shields.io/badge/stars-34-grey?style=flat&logo=github&label=) [stdVBA-examples](https://github.com/sancarn/stdVBA-examples) - Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)
-*  🚌 ![407 stars](https://img.shields.io/badge/stars-407-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
+*  🚌 ![408 stars](https://img.shields.io/badge/stars-408-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 *  🚌 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [stdVBA-scripts](https://github.com/sancarn/stdVBA-scripts) - All stdVBA tutorial scripts
 *  🚌 ![39 stars](https://img.shields.io/badge/stars-39-grey?style=flat&logo=github&label=) [stdVBA-Inspiration](https://github.com/sancarn/stdVBA-Inspiration) - Sample VB6 and VBA code used for inspiration of syntax/algorithms for usage in the stdVBA library
-*  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [opennet-analyser](https://github.com/sancarn/opennet-analyser) - 🤖 A massively parallel network simulation engine
+*  🚂 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [opennet-analyser](https://github.com/sancarn/opennet-analyser) - 🤖 A massively parallel network simulation engine
 *  🚂 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [Enshrouded](https://github.com/sancarn/Enshrouded) - AHK Macros for Enshrouded
 *  🚂 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [hello-world](https://github.com/sancarn/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 *  🚂 ![5 stars](https://img.shields.io/badge/stars-5-grey?style=flat&logo=github&label=) [mgis](https://github.com/sancarn/mgis) - 🤖 A powerful GIS (Geographic Information System) library for the PowerQuery M-language ecosystem, bringing spatial analysis capabilities to Power BI, Excel, and other M-language environments.
