@@ -20,14 +20,14 @@ Here is a list of my projects.
 
 <!-- Projects -->
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [homeservers](https://github.com/matrix-masi/homeservers) - 🤖 A list of homeservers
+*  🚀 ![412 stars](https://img.shields.io/badge/stars-412-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [sancarn](https://github.com/sancarn/sancarn) - 🤖 My profile readme
 *  🚀 ![34 stars](https://img.shields.io/badge/stars-34-grey?style=flat&logo=github&label=) [stdVBA-examples](https://github.com/sancarn/stdVBA-examples) - Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)
-*  🚀 ![627 stars](https://img.shields.io/badge/stars-627-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
+*  🚌 ![631 stars](https://img.shields.io/badge/stars-631-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
 *  🚌 ![6 stars](https://img.shields.io/badge/stars-6-grey?style=flat&logo=github&label=) [vba-webviews-paper](https://github.com/sancarn/vba-webviews-paper) - A paper about usage of webviews in VBA.
 *  🚌 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [masi](https://github.com/matrix-masi/masi) - 🤖 A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
 *  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [sancarn.github.io](https://github.com/sancarn/sancarn.github.io) - Personal github.io page
 *  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [read-first](https://github.com/sancarn/read-first) - 🤖 Windows tool to read the first line or megabyte of any file
-*  🚌 ![411 stars](https://img.shields.io/badge/stars-411-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 *  🚌 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [stdVBA-scripts](https://github.com/sancarn/stdVBA-scripts) - All stdVBA tutorial scripts
 *  🚌 ![39 stars](https://img.shields.io/badge/stars-39-grey?style=flat&logo=github&label=) [stdVBA-Inspiration](https://github.com/sancarn/stdVBA-Inspiration) - Sample VB6 and VBA code used for inspiration of syntax/algorithms for usage in the stdVBA library
 *  🚂 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [opennet-analyser](https://github.com/sancarn/opennet-analyser) - 🤖 A massively parallel network simulation engine
@@ -36,7 +36,7 @@ Here is a list of my projects.
 *  🚂 ![5 stars](https://img.shields.io/badge/stars-5-grey?style=flat&logo=github&label=) [mgis](https://github.com/sancarn/mgis) - 🤖 A powerful GIS (Geographic Information System) library for the PowerQuery M-language ecosystem, bringing spatial analysis capabilities to Power BI, Excel, and other M-language environments.
 *  🚂 ![7 stars](https://img.shields.io/badge/stars-7-grey?style=flat&logo=github&label=) [vba-articles](https://github.com/sancarn/vba-articles) - Articles for VBA
 *  🚂 ![8 stars](https://img.shields.io/badge/stars-8-grey?style=flat&logo=github&label=) [awesome-excel](https://github.com/sancarn/awesome-excel) - A curated list of awesome Microsoft Excel resources
-*  🚂 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [vba-random](https://github.com/sancarn/vba-random) - Random vba projects
+*  ☠️ ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [vba-random](https://github.com/sancarn/vba-random) - Random vba projects
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [ddos-vtt](https://github.com/sancarn/ddos-vtt) - A modern open source baldurs-gate-3 inspired Virtual Tabletop built with PeerJS for networking and PixiJS.
 *  ☠️ ![3 stars](https://img.shields.io/badge/stars-3-grey?style=flat&logo=github&label=) [xlMocker](https://github.com/sancarn/xlMocker) - A mock data generator in Excel
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [stdVBA-docs](https://github.com/sancarn/stdVBA-docs) - Documentation site for `stdVBA`
