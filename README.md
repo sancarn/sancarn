@@ -19,12 +19,12 @@ Here is a list of my projects.
 ----
 
 <!-- Projects -->
-*  🚀 ![5 stars](https://img.shields.io/badge/stars-5-grey?style=flat&logo=github&label=) [mgis](https://github.com/sancarn/mgis) - 🤖 A powerful GIS (Geographic Information System) library for the PowerQuery M-language ecosystem, bringing spatial analysis capabilities to Power BI, Excel, and other M-language environments.
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [homeservers](https://github.com/matrix-masi/homeservers) - 🤖 A list of homeservers
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [sancarn](https://github.com/sancarn/sancarn) - 🤖 My profile readme
+*  🚀 ![5 stars](https://img.shields.io/badge/stars-5-grey?style=flat&logo=github&label=) [mgis](https://github.com/sancarn/mgis) - 🤖 A powerful GIS (Geographic Information System) library for the PowerQuery M-language ecosystem, bringing spatial analysis capabilities to Power BI, Excel, and other M-language environments.
 *  🚀 ![413 stars](https://img.shields.io/badge/stars-413-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 *  🚌 ![34 stars](https://img.shields.io/badge/stars-34-grey?style=flat&logo=github&label=) [stdVBA-examples](https://github.com/sancarn/stdVBA-examples) - Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)
-*  🚌 ![633 stars](https://img.shields.io/badge/stars-633-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
+*  🚌 ![635 stars](https://img.shields.io/badge/stars-635-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
 *  🚌 ![6 stars](https://img.shields.io/badge/stars-6-grey?style=flat&logo=github&label=) [vba-webviews-paper](https://github.com/sancarn/vba-webviews-paper) - A paper about usage of webviews in VBA.
 *  🚌 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [masi](https://github.com/matrix-masi/masi) - 🤖 A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
 *  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [sancarn.github.io](https://github.com/sancarn/sancarn.github.io) - Personal github.io page
@@ -34,8 +34,8 @@ Here is a list of my projects.
 *  🚂 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [opennet-analyser](https://github.com/sancarn/opennet-analyser) - 🤖 A massively parallel network simulation engine
 *  🚂 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [Enshrouded](https://github.com/sancarn/Enshrouded) - AHK Macros for Enshrouded
 *  🚂 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [hello-world](https://github.com/sancarn/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
-*  🚂 ![7 stars](https://img.shields.io/badge/stars-7-grey?style=flat&logo=github&label=) [vba-articles](https://github.com/sancarn/vba-articles) - Articles for VBA
-*  🚂 ![8 stars](https://img.shields.io/badge/stars-8-grey?style=flat&logo=github&label=) [awesome-excel](https://github.com/sancarn/awesome-excel) - A curated list of awesome Microsoft Excel resources
+*  ☠️ ![7 stars](https://img.shields.io/badge/stars-7-grey?style=flat&logo=github&label=) [vba-articles](https://github.com/sancarn/vba-articles) - Articles for VBA
+*  ☠️ ![8 stars](https://img.shields.io/badge/stars-8-grey?style=flat&logo=github&label=) [awesome-excel](https://github.com/sancarn/awesome-excel) - A curated list of awesome Microsoft Excel resources
 *  ☠️ ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [vba-random](https://github.com/sancarn/vba-random) - Random vba projects
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [ddos-vtt](https://github.com/sancarn/ddos-vtt) - A modern open source baldurs-gate-3 inspired Virtual Tabletop built with PeerJS for networking and PixiJS.
 *  ☠️ ![3 stars](https://img.shields.io/badge/stars-3-grey?style=flat&logo=github&label=) [xlMocker](https://github.com/sancarn/xlMocker) - A mock data generator in Excel
@@ -67,7 +67,6 @@ Here is a list of my projects.
 *  ☠️ ![11 stars](https://img.shields.io/badge/stars-11-grey?style=flat&logo=github&label=) [VbaJsBridge](https://github.com/sancarn/VbaJsBridge) - Send messages between VBA and OfficeJS, execute code dynamically, interact with COM and more!
 *  ☠️ ![58 stars](https://img.shields.io/badge/stars-58-grey?style=flat&logo=github&label=) [LaunchMenu](https://github.com/LaunchMenu/LaunchMenu) - Do it. Do it now.
 *  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [LaunchMenu.github.io](https://github.com/LaunchMenu/LaunchMenu.github.io) - Website for LaunchMenu
-*  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [unitary-math-parser](https://github.com/LaunchMenu/unitary-math-parser) - A parser and evaluator for simple math expressions, with support for units and simple corrections
 *  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [OSIntegrationServer](https://github.com/LaunchMenu/OSIntegrationServer) - Provides operating system specific functionality to NodeJS applications utilising communication with compiled binaries
 *  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [search-based-comparrison](https://github.com/LaunchMenu/search-based-comparrison) - A simple repository to compare LaunchMenu with other search based applications
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [fork-backup-unitary-math-parser](https://github.com/sancarn/fork-backup-unitary-math-parser) - A parser and evaluator for simple math expressions, with support for units and simple corrections
@@ -136,10 +135,11 @@ Here is a list of my projects.
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [Electron](https://github.com/sancarn/Electron) - My Electron Repositry
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [MIKB](https://github.com/sancarn/MIKB) - A repository containing MapBasic / AHK code to create a MapInfo Knowledge base.
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [ACE](https://github.com/sancarn/ACE) - Ace editor for AHK
-*  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [VBA-to-MapBasic-Porting](https://github.com/sancarn/VBA-to-MapBasic-Porting) - Porting VBA routines to MapBasic
 *  ☠️ ![4 stars](https://img.shields.io/badge/stars-4-grey?style=flat&logo=github&label=) [VBA-Debug](https://github.com/sancarn/VBA-Debug) - An extensive open-source debugging library for VBA
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [CustomContext](https://github.com/sancarn/CustomContext) - Creating a cutom context menu for windows explorer 
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [IEClear](https://github.com/sancarn/IEClear) - IEClear is a Utility designed for use in Window's Internet Explorer. At any time, with Internet Explorer open, type "ieclear". The program will get all existing Internet Explorer tabs, and merge them all into 1 window.
 *  ☠️ ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [ScreenFlow-API](https://github.com/sancarn/ScreenFlow-API) - An AppleScript API, for using the popular ScreenCast software for Mac, Screenflow.
+*  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [VBA-to-MapBasic-Porting](https://github.com/sancarn/VBA-to-MapBasic-Porting) - Porting VBA routines to MapBasic
+*  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [unitary-math-parser](https://github.com/LaunchMenu/unitary-math-parser) - A parser and evaluator for simple math expressions, with support for units and simple corrections
 
 
