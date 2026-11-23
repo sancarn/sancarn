@@ -19,12 +19,13 @@ Here is a list of my projects.
 ----
 
 <!-- Projects -->
-*  🚀 ![651 stars](https://img.shields.io/badge/stars-651-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
-*  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [homeservers](https://github.com/matrix-masi/homeservers) - 🤖 A list of homeservers
 *  🚀 ![26 stars](https://img.shields.io/badge/stars-26-grey?style=flat&logo=github&label=) [awesome-excel](https://github.com/sancarn/awesome-excel) - A curated list of awesome Microsoft Excel resources
-*  🚀 ![3 stars](https://img.shields.io/badge/stars-3-grey?style=flat&logo=github&label=) [regex-m](https://github.com/sancarn/regex-m) - Pure PowerQuery/Mashup regex engine with a parser, bytecode compiler, and virtual machine
-*  🚀 ![413 stars](https://img.shields.io/badge/stars-413-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
+*  🚀 ![3 stars](https://img.shields.io/badge/stars-3-grey?style=flat&logo=github&label=) [xll-python](https://github.com/sancarn/xll-python) - Experimental distributable / fully-embedded python runtime in an XLL addin. AI:X
+*  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [homeservers](https://github.com/matrix-masi/homeservers) - 🤖 A list of homeservers
+*  🚀 ![652 stars](https://img.shields.io/badge/stars-652-grey?style=flat&logo=github&label=) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA/VB6 frameworks, libraries, software and resources
+*  🚀 ![414 stars](https://img.shields.io/badge/stars-414-grey?style=flat&logo=github&label=) [stdVBA](https://github.com/sancarn/stdVBA) - VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.
 *  🚀 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [sancarn](https://github.com/sancarn/sancarn) - 🤖 My profile readme
+*  🚀 ![3 stars](https://img.shields.io/badge/stars-3-grey?style=flat&logo=github&label=) [regex-m](https://github.com/sancarn/regex-m) - Pure PowerQuery/Mashup regex engine with a parser, bytecode compiler, and virtual machine
 *  🚀 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [opennet-analyser](https://github.com/sancarn/opennet-analyser) - 🤖 A massively parallel network simulation engine
 *  🚀 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [read-first](https://github.com/sancarn/read-first) - 🤖 Windows tool to read the first line or megabyte of any file
 *  🚀 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [masi](https://github.com/matrix-masi/masi) - 🤖 A portable Matrix client that builds to a single HTML file, and focuses on making favourites playable and backups reliable with a mobile-first layout.
@@ -38,7 +39,7 @@ Here is a list of my projects.
 *  🚌 ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [sancarn.github.io](https://github.com/sancarn/sancarn.github.io) - Personal github.io page
 *  🚂 ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [stdVBA-scripts](https://github.com/sancarn/stdVBA-scripts) - All stdVBA tutorial scripts
 *  🚂 ![39 stars](https://img.shields.io/badge/stars-39-grey?style=flat&logo=github&label=) [stdVBA-Inspiration](https://github.com/sancarn/stdVBA-Inspiration) - Sample VB6 and VBA code used for inspiration of syntax/algorithms for usage in the stdVBA library
-*  🚂 ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [Enshrouded](https://github.com/sancarn/Enshrouded) - AHK Macros for Enshrouded
+*  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [Enshrouded](https://github.com/sancarn/Enshrouded) - AHK Macros for Enshrouded
 *  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [hello-world](https://github.com/sancarn/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 *  ☠️ ![7 stars](https://img.shields.io/badge/stars-7-grey?style=flat&logo=github&label=) [vba-articles](https://github.com/sancarn/vba-articles) - Articles for VBA
 *  ☠️ ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [vba-random](https://github.com/sancarn/vba-random) - Random vba projects
@@ -58,6 +59,7 @@ Here is a list of my projects.
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [NGKL-MaintainerApplications](https://github.com/LaunchMenu/NGKL-MaintainerApplications) - Apparently you can't add to discussions of archived repos... So this repo is created for those discussions.
 *  ☠️ ![4 stars](https://img.shields.io/badge/stars-4-grey?style=flat&logo=github&label=) [copy-to-clipboard](https://github.com/sancarn/copy-to-clipboard) - Helper site to copy text to clipboard
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [linktree-from-url-params](https://github.com/sancarn/linktree-from-url-params) - Generate a linktree-like site from Base64 encoded JSON passed in as URL params
+*  ☠️ ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [xlTPS](https://github.com/sancarn/xlTPS) - A TPS viewer for Excel
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [fork-Dogfight](https://github.com/sancarn/fork-Dogfight) - Prototypes Excel VBA
 *  ☠️ ![14 stars](https://img.shields.io/badge/stars-14-grey?style=flat&logo=github&label=) [uiVBA](https://github.com/sancarn/uiVBA) - Expansion of stdVBA to include UI components
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [rust_experiment-distributed_handlers](https://github.com/sancarn/rust_experiment-distributed_handlers) - 
@@ -71,10 +73,12 @@ Here is a list of my projects.
 *  ☠️ ![11 stars](https://img.shields.io/badge/stars-11-grey?style=flat&logo=github&label=) [VbaJsBridge](https://github.com/sancarn/VbaJsBridge) - Send messages between VBA and OfficeJS, execute code dynamically, interact with COM and more!
 *  ☠️ ![58 stars](https://img.shields.io/badge/stars-58-grey?style=flat&logo=github&label=) [LaunchMenu](https://github.com/LaunchMenu/LaunchMenu) - Do it. Do it now.
 *  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [LaunchMenu.github.io](https://github.com/LaunchMenu/LaunchMenu.github.io) - Website for LaunchMenu
+*  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [unitary-math-parser](https://github.com/LaunchMenu/unitary-math-parser) - A parser and evaluator for simple math expressions, with support for units and simple corrections
 *  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [OSIntegrationServer](https://github.com/LaunchMenu/OSIntegrationServer) - Provides operating system specific functionality to NodeJS applications utilising communication with compiled binaries
 *  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [search-based-comparrison](https://github.com/LaunchMenu/search-based-comparrison) - A simple repository to compare LaunchMenu with other search based applications
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [fork-backup-unitary-math-parser](https://github.com/sancarn/fork-backup-unitary-math-parser) - A parser and evaluator for simple math expressions, with support for units and simple corrections
 *  ☠️ ![7 stars](https://img.shields.io/badge/stars-7-grey?style=flat&logo=github&label=) [fork-vscode-vba](https://github.com/sancarn/fork-vscode-vba) - VBA syntax highlighting and snippets for use in VSCode
+*  ☠️ ![5 stars](https://img.shields.io/badge/stars-5-grey?style=flat&logo=github&label=) [VBA-STD-Builder](https://github.com/sancarn/VBA-STD-Builder) - A temporary project for building a VBA code builder, to allow people to work in VSCode and perform Live Tests
 *  ☠️ ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [vbWebMap](https://github.com/sancarn/vbWebMap) - A simple map UI proof of concept written in VB6 compatible VBA - Requires Internet Explorer
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [launchmenu-translator](https://github.com/sancarn/launchmenu-translator) - A quick translation utility for LM
 *  ☠️ ![1 stars](https://img.shields.io/badge/stars-1-grey?style=flat&logo=github&label=) [launchmenu-calculator](https://github.com/sancarn/launchmenu-calculator) - Calculator addin for launchmenu
@@ -143,8 +147,5 @@ Here is a list of my projects.
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [CustomContext](https://github.com/sancarn/CustomContext) - Creating a cutom context menu for windows explorer 
 *  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [IEClear](https://github.com/sancarn/IEClear) - IEClear is a Utility designed for use in Window's Internet Explorer. At any time, with Internet Explorer open, type "ieclear". The program will get all existing Internet Explorer tabs, and merge them all into 1 window.
 *  ☠️ ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [ScreenFlow-API](https://github.com/sancarn/ScreenFlow-API) - An AppleScript API, for using the popular ScreenCast software for Mac, Screenflow.
-*  ☠️ ![5 stars](https://img.shields.io/badge/stars-5-grey?style=flat&logo=github&label=) [VBA-STD-Builder](https://github.com/sancarn/VBA-STD-Builder) - A temporary project for building a VBA code builder, to allow people to work in VSCode and perform Live Tests
-*  ☠️ ![2 stars](https://img.shields.io/badge/stars-2-grey?style=flat&logo=github&label=) [xlTPS](https://github.com/sancarn/xlTPS) - A TPS viewer for Excel
-*  ☠️ ![0 stars](https://img.shields.io/badge/stars-0-grey?style=flat&logo=github&label=) [unitary-math-parser](https://github.com/LaunchMenu/unitary-math-parser) - A parser and evaluator for simple math expressions, with support for units and simple corrections
 
 
